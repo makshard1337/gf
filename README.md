@@ -1,1 +1,1 @@
-![GIF](gif_site.gif)
+![GIF](gifk_site_gif.gif)
